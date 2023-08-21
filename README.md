@@ -39,4 +39,4 @@ O esquema de banco de dados pode ser implementado em qualquer sistema de gerenci
 
 ---
 
-Um agradecimento especial à DIO (Digital Innovation One) por proporcionar esta oportunidade de aprendizado! 🙏
+Um agradecimento especial à DIO por proporcionar esta oportunidade de aprendizado! 🙏
